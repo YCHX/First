@@ -1,5 +1,8 @@
 #EXTINF:Reduced Mode
-http://hw-tct.douyucdn.cn/live/74751rXoSKIIk2o3_4000.flv?uuid=
+http://hdltc1.douyucdn.cn/live/74751rXoSKIIk2o3_4000.flv?uuid=
 
 #EXTINF:Normal Mode
-http://hls3a-akm.douyucdn.cn/live/74751rXoSKIIk2o3.flv?uuid=
+http://hdltc1.douyucdn.cn/live/74751rXoSKIIk2o3.flv?uuid=
+
+#EXTINF:Special Mode
+http://hls3a-akm.douyucdn.cn/live/74751rXoSKIIk2o3.m3u8
